@@ -32,7 +32,8 @@ Code for this program can be downloaded from [GitHub]<https://github.com/gardner
 
 ## Screenshots
 
-C:\Users\Gardn\Downloads\Web capture_21-11-2022_222631_127.0.0.1.jpeg
+![Screenshot (37)](https://user-images.githubusercontent.com/115792714/227049273-baef6c1c-a8ac-4e65-af15-c8679dc4063c.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/115792714/227049288-bf2d7e2e-1797-4698-a80a-df5cb7f9516d.png)
 
 ## License
 
